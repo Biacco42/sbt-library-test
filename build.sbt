@@ -1,6 +1,8 @@
 name := "sbt-library-test"
 
-version := "0.1"
+organization := "info.biacco42.lib"
+
+version := "0.1.0"
 
 scalaVersion := "2.12.8"
 
